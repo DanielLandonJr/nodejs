@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node js demonstration application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielLandonJr/nodejs.git"
+  },
+  "author": "Daniel C. Landon Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielLandonJr/nodejs/issues"
+  },
+  "homepage": "https://github.com/DanielLandonJr/nodejs#readme"
+}
